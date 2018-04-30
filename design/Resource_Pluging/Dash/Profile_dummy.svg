@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="81.6531in" height="93.822in" version="1.0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 5652 6495"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="2674.92" y1="4459.7" x2="2675.07" y2="6494.6">
+    <stop offset="0" stop-opacity="1" stop-color="#390E5E"/>
+    <stop offset="1" stop-opacity="1" stop-color="#8F35E3"/>
+   </linearGradient>
+   <clipPath id="id1">
+    <path d="M2827 5951l2520 -1472 116 -68 0 -4221 -5273 0 0 4221 115 68 2522 1472z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon fill="url(#id0)" points="5347,653 5347,4931 2827,6495 305,4931 305,653 "/>
+  <path fill="#FF5112" fill-rule="nonzero" d="M5463 190l-5273 0 0 4221 2637 1540 2636 -1540 0 -4221zm-5368 -190l5557 0 0 4520c-941,551 -1883,1101 -2825,1650 -943,-549 -1885,-1100 -2827,-1650l0 -4520 95 0z"/>
+  <polygon fill="#6421A4" points="2827,5951 5347,4479 5463,4411 5463,190 190,190 190,4411 305,4479 "/>
+  <g clip-path="url(#id1)">
+   <g id="_1397525072368">
+    <path id="1" fill="white" d="M4600 4915l-965 -482c-124,-62 -203,-190 -203,-329l0 -379c27,-30 58,-70 91,-117 132,-185 231,-390 300,-604 124,-38 215,-153 215,-288l0 -404c0,-89 -40,-169 -101,-224l0 -584c0,0 120,-909 -1111,-909 -1231,0 -1111,909 -1111,909l0 584c-61,55 -101,135 -101,224l0 404c0,106 56,200 140,254 101,439 365,755 365,755l0 370c0,134 -73,258 -192,323l-900 491c-261,142 -423,415 -423,711l0 327 4444 0 0 -307c0,-307 -174,-587 -448,-725z"/>
+   </g>
+  </g>
+  <polygon fill="none" points="2827,5951 5347,4479 5463,4411 5463,190 190,190 190,4411 305,4479 "/>
+ </g>
+</svg>
